@@ -25,9 +25,9 @@ dependencies:
   animated_card: ^2.0.0
 
   # Structure
-  flutter_triple: 1.2.4+3
-  flutter_modular: ^4.1.2
-  dartz: ^0.10.0-nullsafety.2
+  flutter_triple: ^1.2.6
+  flutter_modular: ^4.4.0
+  dartz: ^0.10.1
 
   # Others
   package_info: ^2.0.2
